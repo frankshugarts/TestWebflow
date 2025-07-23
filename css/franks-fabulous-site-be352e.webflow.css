@@ -1,0 +1,28 @@
+.section {
+  display: block;
+}
+
+.div-block {
+  background-color: #df7070;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 300px;
+  margin-top: 220px;
+  display: block;
+}
+
+.div-block-2 {
+  height: 100%;
+  display: flex;
+}
+
+.section-2 {
+  justify-content: center;
+  align-items: center;
+  height: 60%;
+  margin-top: 220px;
+  display: flex;
+}
+
+
